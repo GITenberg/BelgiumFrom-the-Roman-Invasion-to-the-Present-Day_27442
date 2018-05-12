@@ -1,0 +1,27 @@
+_repo: BelgiumFrom-the-Roman-Invasion-to-the-Present-Day_27442
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cammaerts, Emile
+    birthdate: 1878
+    deathdate: 1953
+    gutenberg_agent_id: '4474'
+    url: http://www.gutenberg.org/2009/agents/4474
+description: ''
+gutenberg_issued: '2008-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27442'
+  lccn: '21005103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Belgium -- History'
+- !lcc 'DH'
+title: 'Belgium: From the Roman Invasion to the Present Day'
+url: http://www.gutenberg.org/ebooks/27442
